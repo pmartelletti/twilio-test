@@ -1,0 +1,13 @@
+{
+    "name": "pmartelletti/twilio-test",
+    "description": "Some testing for Twilio Client",
+    "authors": [
+        {
+            "name": "Pablo Martelletti",
+            "email": "pmartelletti@gmail.com"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "^4.2"
+    }
+}
